@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: c6ed3339fd8ab02469d941cf0111d585
+  - enabled: 1
+    path: Assets/Scenes/Mindfulness.unity
+    guid: 528b7656cf8ac9c4d83f25e6df8a3b88
+  - enabled: 1
+    path: Assets/Scenes/Gratitude.unity
+    guid: 73859bb45c02de741bffb224fafd556f
   m_configObjects: {}
