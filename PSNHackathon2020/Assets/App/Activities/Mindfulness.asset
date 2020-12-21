@@ -15,6 +15,6 @@ MonoBehaviour:
   name: Mindfulness
   description: Everyone needs time to rest, clear their mind and reflect. Clear your
     mind, calm down and prepare for the day ahead of you.
-  sceneIndex: 1
+  sceneIndex: 2
   btnText: Meditate
   color: {r: 1, g: 0.77675366, b: 0.2688679, a: 1}

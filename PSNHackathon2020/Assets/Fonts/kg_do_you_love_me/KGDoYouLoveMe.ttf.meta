@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dc921b3deb31a5040bbcb360f39278c8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG Do You Love Me
+  fontNames:
+  - KG Do You Love Me
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3723b4ef6e90a6841b2c1e203c9839aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

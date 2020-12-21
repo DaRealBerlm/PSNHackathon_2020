@@ -6,12 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: 7a50c1e0895b4824da15ca6c1af3cf7e
+  - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: c6ed3339fd8ab02469d941cf0111d585
   - enabled: 1
     path: Assets/Scenes/Mindfulness.unity
     guid: 528b7656cf8ac9c4d83f25e6df8a3b88
   - enabled: 1
+    path: Assets/Scenes/Hydrate.unity
+    guid: 04b0e5a061f957f4aaaf6b7e72cb03bc
+  - enabled: 1
     path: Assets/Scenes/Gratitude.unity
     guid: 73859bb45c02de741bffb224fafd556f
+  - enabled: 1
+    path: Assets/Scenes/Logs.unity
+    guid: dc9a1dfbafe0dcd49a071d8419020235
   m_configObjects: {}

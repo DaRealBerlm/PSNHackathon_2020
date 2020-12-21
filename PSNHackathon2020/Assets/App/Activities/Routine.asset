@@ -15,6 +15,6 @@ MonoBehaviour:
   name: Set up your routine
   description: A fixed routine makes your body synchronize it's clock, and makes
     you feel fresh. Learning anything can be done faster with a fresh and sharp mind.
-  sceneIndex: 2
+  sceneIndex: 3
   btnText: Routine
   color: {r: 0.5460369, g: 1, b: 0.35294116, a: 1}
